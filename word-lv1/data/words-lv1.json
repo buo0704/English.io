@@ -1,0 +1,491 @@
+{ 
+    "measure": {
+        "word": "measure",
+        "meaning": "1.측정하다 2.조치",
+        "pronunciation": {
+            "symbol": "meʒə(r)",
+            "korean": "메저"
+        },
+        "derivatives": [
+            {"word": "measurable", "meaning": "측정할 수 있는"},
+            {"word": "unmeasurable", "meaning": "측정할 수 없는"}
+        ]
+    },
+
+    "guilty": {
+        "word": "guilty",
+        "meaning": "1.유죄의 2.죄책감이 있는",
+        "pronunciation": {
+            "symbol": "ɡɪlti",
+            "korean": "길티"
+        },
+        "derivatives": [
+            {"word": "guilt", "meaning": "유죄, 죄"}
+        ]
+    },
+
+    "innocent": {
+        "word": "innocent",
+        "meaning": "1.순진한 2.무죄의",
+        "pronunciation": {
+            "symbol": "ɪnəsnt ",
+            "korean": "이너슨트"
+        },
+        "derivatives": [
+            {"word": "innocence", "meaning": "무죄, 결백, 순수"}
+        ]
+    },
+
+    "responsibility": {
+        "word": "responsibility",
+        "meaning": "1.책임 2.의무",
+        "pronunciation": {
+            "symbol": "rɪˌspɑːnsəˈbɪləti",
+            "korean": "리스폰서빌러티"
+        },
+        "derivatives": [
+            {"word": "responsible", "meaning": "책임이 있는"},
+            {"word": "be responsible for~", "meaning": "~에 대한 책임을 지다"}
+        ]
+    },  
+
+    "dawn": {
+        "word": "dawn",
+        "meaning": "1.새벽 2.밝다",
+        "pronunciation": {
+            "symbol": "dɔːn",
+            "korean": "돈"
+        }
+    },  
+
+    "fit": {
+        "word": "fit",
+        "meaning": "1.맞다 2.건강한",
+        "pronunciation": {
+            "symbol": "fɪt",
+            "korean": "핏"
+        },
+        "derivatives": [
+            {"word": "fitness", "meaning": "적당, 건강"},
+            {"word": "unfit", "meaning": "부적합한"}
+        ]
+    }, 
+
+    "deaf": {
+        "word": "deaf",
+        "meaning": "1.귀가 먹은 2.청각 장애인",
+        "pronunciation": {
+            "symbol": "def",
+            "korean": "데프"
+        }
+    },     
+
+    "contact": {
+        "word": "contact",
+        "meaning": "1.연락 2.연락하다",
+        "pronunciation": {
+            "symbol": "kɑːntækt",
+            "korean": "컨택트"
+        }
+    },  
+
+    "complain": {
+        "word": "complain",
+        "meaning": "1.불평하다 2.불만을 말하다",
+        "pronunciation": {
+            "symbol": "kəmˈpleɪn",
+            "korean": "컴플레인"
+        },
+        "derivatives": [
+            {"word": "complaint", "meaning": "불평, 불만"},
+            {"word": "uncomplaining", "meaning": "불평하지 않는"}
+        ]
+    },    
+    
+    "muscle": {
+        "word": "muscle",
+        "meaning": "1.근육",
+        "pronunciation": {
+            "symbol": "ˈmʌsəl",
+            "korean": "머슬"
+        },
+        "derivatives": [
+            {"word": "muscle pain", "meaning": "근육통"}
+        ]
+    },   
+    
+    "disease": {
+        "word": "disease",
+        "meaning": "1.질병, 병",
+        "pronunciation": {
+            "symbol": "dɪˈziːz",
+            "korean": "디지즈"
+        },
+        "derivatives": [
+            {"word": "heart disease", "meaning": "심장병"}
+        ]
+    }, 
+    
+    "further": {
+        "word": "contact",
+        "meaning": "1.더 멀리에 2.더 나아가",
+        "pronunciation": {
+            "symbol": "fɜːrðər",
+            "korean": "퍼더"
+        },
+        "derivatives": [
+            {"word": "furthermore", "meaning": "더욱이 뿐만 아니라"}
+        ]
+    },    
+
+    "serious": {
+        "word": "serious",
+        "meaning": "1.심각한 2.진지한",
+        "pronunciation": {
+            "symbol": "ˈsɪriəs",
+            "korean": "시리어스"
+        }
+    },
+
+    "male": {
+        "word": "male",
+        "meaning": "1.남자",
+        "pronunciation": {
+            "symbol": "meɪl",
+            "korean": "메일"
+        }
+    }, 
+    
+    "female": {
+        "word": "female",
+        "meaning": "1.여성",
+        "pronunciation": {
+            "symbol": "fiːmeɪl",
+            "korean": "피메일"
+        }
+    }, 
+    
+    "aid": {
+        "word": "aid",
+        "meaning": "1.원조 2.돕다",
+        "pronunciation": {
+            "symbol": "eɪd",
+            "korean": "에이드"
+        },
+        "derivatives": [
+            {"word": "first aid", "meaning": "응급 처치"}
+        ]
+    },
+    
+    "contaminate": {
+        "word": "contaminate",
+        "meaning": "1.오염시키다 2.더럽히다",
+        "pronunciation": {
+            "symbol": "kənˈtæmɪˌneɪt",
+            "korean": "컨탐네이트"
+        },
+        "derivatives": [
+            {"word": "contamination", "meaning": "오염"}
+        ]
+    },  
+    
+    "fairy": {
+        "word": "fairy",
+        "meaning": "1.요정",
+        "pronunciation": {
+            "symbol": "ˈfɛri",
+            "korean": "페어리"
+        },
+        "derivatives": [
+            {"word": "fairy tale", "meaning": "동화"}
+        ]
+    }, 
+    
+    "slip": {
+        "word": "slip",
+        "meaning": "1.미끄러지다 2.과실",
+        "pronunciation": {
+            "symbol": "slɪp",
+            "korean": "슬립"
+        }
+    },
+    
+    "drop": {
+        "word": "drop",
+        "meaning": "1.떨어지다 2.한 방울",
+        "pronunciation": {
+            "symbol": "drɑːp",
+            "korean": "드랍"
+        }
+    },   
+    
+    "leak": {
+        "word": "leak",
+        "meaning": "1.새다 2.누출",
+        "pronunciation": {
+            "symbol": "liːk",
+            "korean": "릭"
+        },
+        "derivatives": [
+            {"word": "a security leak", "meaning": "기밀 누설"}
+        ]
+    }, 
+    
+    "region": {
+        "word": "region",
+        "meaning": "1.지역 2.지방",
+        "pronunciation": {
+            "symbol": "ˈriːdʒən",
+            "korean": "리전"
+        },
+        "derivatives": [
+            {"word": "regional", "meaning": "지역의, 지방적인"}
+        ]
+    },
+    
+    "celebrate": {
+        "word": "celebrate",
+        "meaning": "1.축하하다 2.기념하다",
+        "pronunciation": {
+            "symbol": "ˈsɛləˌbreɪt",
+            "korean": "셀러브레이트"
+        },
+        "derivatives": [
+            {"word": "celebration", "meaning": "축하"}
+        ]
+    }, 
+    
+    "upward": {
+        "word": "upward",
+        "meaning": "1.위쪽으로로 2.상승하는",
+        "pronunciation": {
+            "symbol": "ˈʌpwərd",
+            "korean": "업워드"
+        }
+    },  
+    
+    "downward": {
+        "word": "downward",
+        "meaning": "1.아래쪽으로 2.하향의",
+        "pronunciation": {
+            "symbol": "ˈdaʊnwərd",
+            "korean": "다운워드"
+        }
+    },  
+    
+    "backward": {
+        "word": "backward",
+        "meaning": "1.뒤로 2.뒤쪽으로",
+        "pronunciation": {
+            "symbol": "ˈbækwərd",
+            "korean": "백워드"
+        }
+    },  
+    
+    "inward": {
+        "word": "inward",
+        "meaning": "1.안으로 2.내면의",
+        "pronunciation": {
+            "symbol": "ˈɪnwərd",
+            "korean": "인워드"
+        }
+    },  
+    
+    "toward": {
+        "word": "inward",
+        "meaning": "1.~쪽으로 2.~을 향하여",
+        "pronunciation": {
+            "symbol": "təˈwɔːrd",
+            "korean": "투워드"
+        }
+    },  
+    
+    "outward": {
+        "word": "outward",
+        "meaning": "1.바깥쪽으로 2.외향적인",
+        "pronunciation": {
+            "symbol": "ˈaʊtwərd",
+            "korean": "아웃워드"
+        }
+    },  
+    
+    "forward": {
+        "word": "forward",
+        "meaning": "1.앞으로 2.전방으로",
+        "pronunciation": {
+            "symbol": "ˈfɔːrwərd",
+            "korean": "포워드"
+        }
+    },      
+
+    "reap": {
+        "word": "reap",
+        "meaning": "1.수확하다 2.거두어들이다",
+        "pronunciation": {
+            "symbol": "riːp",
+            "korean": "맆"
+        }
+    },  
+    
+    "leap": {
+        "word": "leap",
+        "meaning": "1.뛰다 2.도약하다",
+        "pronunciation": {
+            "symbol": "liːp",
+            "korean": "맆"
+        }
+    },      
+
+    "ethics": {
+        "word": "ethics",
+        "meaning": "1.윤리 2.도덕",
+        "pronunciation": {
+            "symbol": "ˈɛθɪks",
+            "korean": "에씩스"
+        },
+        "derivatives": [
+            {"word": "medical ethics", "meaning": "의료 윤리"}
+        ]
+    },   
+    
+    "ethnic": {
+        "word": "ethnic",
+        "meaning": "1.민족의 2.인종의",
+        "pronunciation": {
+            "symbol": "ˈɛθnɪk",
+            "korean": "에쓰닉"
+        }
+    },      
+
+    "locate": {
+        "word": "locate",
+        "meaning": "1.~에 위치시키다 2.~에 두다",
+        "pronunciation": {
+            "symbol": "loʊˈkeɪt",
+            "korean": "로케이트"
+        },
+        "derivatives": [
+            {"word": "location", "meaning": "위초, 장소"}
+        ]
+    },      
+
+    "fix": {
+        "word": "fix",
+        "meaning": "1.고정하다 2.수리하다",
+        "pronunciation": {
+            "symbol": "fɪks",
+            "korean": "픽스"
+        }
+    },   
+    
+    "warn": {
+        "word": "warn",
+        "meaning": "1.경고하다 2.주의시키다",
+        "pronunciation": {
+            "symbol": "wɔːrn",
+            "korean": "워rn"
+        },
+        "derivatives": [
+            {"word": "warning", "meaning": "경고, 경보"}
+        ]
+    },
+    
+    "freezing": {
+        "word": "freezing",
+        "meaning": "1.얼어붙는 2.매우 추운",
+        "pronunciation": {
+            "symbol": "ˈfriːzɪŋ",
+            "korean": "프리징"
+        },
+        "derivatives": [
+            {"word": "freeze", "meaning": "얼다"}
+        ]
+    }, 
+    
+    "wipe": {
+        "word": "wipe",
+        "meaning": "1.닦다 2.지우다",
+        "pronunciation": {
+            "symbol": "waɪp",
+            "korean": "와이프"
+        }
+    },    
+
+    "scholar": {
+        "word": "scholar",
+        "meaning": "1.학자 2.장학생",
+        "pronunciation": {
+            "symbol": "ˈskɑːlər",
+            "korean": "스칼러"
+        }
+    },      
+
+    "hasty": {
+        "word": "hasty",
+        "meaning": "1.성급한 2.서두르는",
+        "pronunciation": {
+            "symbol": "ˈheɪsti",
+            "korean": "헤이스티"
+        }
+    },   
+    
+    "view": {
+        "word": "view",
+        "meaning": "1.경치 2.바라보다",
+        "pronunciation": {
+            "symbol": "vjuː",
+            "korean": "뷰"
+        },
+        "derivatives": [
+            {"word": "viewpoint", "meaning": "관점"}
+        ]
+    },     
+
+    "soil": {
+        "word": "soil",
+        "meaning": "1.흙 2.땅",
+        "pronunciation": {
+            "symbol": "sɔɪl",
+            "korean": "소일"
+        }
+    },     
+
+    "quality": {
+        "word": "quality",
+        "meaning": "1.품질 2.특성",
+        "pronunciation": {
+            "symbol": "ˈkwɑːləti",
+            "korean": "퀄러티"
+        }
+    },      
+
+    "quantity": {
+        "word": "quantity",
+        "meaning": "1.수량 2.양",
+        "pronunciation": {
+            "symbol": "ˈkwɑːntɪti",
+            "korean": "퀀터티"
+        }
+    },     
+
+    "vehicle": {
+        "word": "vehicle",
+        "meaning": "1.차량 2.운송",
+        "pronunciation": {
+            "symbol": "ˈviːɪkəl",
+            "korean": "비이클"
+        }
+    },       
+
+    "mindless": {
+        "word": "mindless",
+        "meaning": "1.생각이 없는 2.부주의한",
+        "pronunciation": {
+            "symbol": "ˈmaɪndləs",
+            "korean": "마인들리스"
+        },
+        "derivatives": [
+            {"word": "mindlessly", "meaning": "부주의하게, 아무 생각 없이"}
+        ]
+    }   
+}
