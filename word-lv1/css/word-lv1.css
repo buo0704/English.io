@@ -98,3 +98,37 @@ body {
 .word-card:empty:hover {
     transform: none;
 }
+
+@media screen and (max-height: 1200px) {
+  :root {
+    --card-width: 320px;
+    --card-height: 90px;
+    --card-gap: 20px;
+  }
+
+  .word-card {
+    font-size: 32px;
+  }
+
+  .level-title {
+    font-size: 56px;
+    line-height: 80px;
+  }
+}
+
+@media screen and (max-height: 1000px) {
+  :root {
+    --card-width: 280px;
+    --card-height: 80px;
+    --card-gap: 18px;
+  }
+
+  .word-card {
+    font-size: 28px;
+  }
+
+  .level-title {
+    font-size: 48px;
+    line-height: 70px;
+  }
+}
