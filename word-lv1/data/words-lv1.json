@@ -71,6 +71,15 @@
         }
     },  
 
+    "delicious": {
+        "word": "delicious",
+        "meaning": "맛있는, 맛좋은",
+        "pronunciation": {
+            "symbol": "dɪˈlɪʃəs",
+            "korean": "딜리셔스"
+        }
+    },     
+
     "complain": {
         "word": "complain",
         "meaning": "불평하다, 불만을 말하다",
@@ -388,7 +397,7 @@
 
     "quality": {
         "word": "quality",
-        "meaning": "품질 특성",
+        "meaning": "품질, 특성",
         "pronunciation": {
             "symbol": "ˈkwɑːləti",
             "korean": "퀄러티"
@@ -397,7 +406,7 @@
 
     "quantity": {
         "word": "quantity",
-        "meaning": "수량 양",
+        "meaning": "수량, 양",
         "pronunciation": {
             "symbol": "ˈkwɑːntɪti",
             "korean": "퀀터티"
@@ -406,7 +415,7 @@
 
     "vehicle": {
         "word": "vehicle",
-        "meaning": "차량 운송",
+        "meaning": "차량, 운송",
         "pronunciation": {
             "symbol": "ˈviːɪkəl",
             "korean": "비이클"
@@ -415,7 +424,7 @@
 
     "mindless": {
         "word": "mindless",
-        "meaning": "생각이 없는 부주의한",
+        "meaning": "생각이 없는, 부주의한",
         "pronunciation": {
             "symbol": "ˈmaɪndləs",
             "korean": "마인들리스"
@@ -424,7 +433,7 @@
     
     "temperature": {
         "word": "temperature",
-        "meaning": "온도 체온",
+        "meaning": "온도, 체온",
         "pronunciation": {
             "symbol": "ˈtem.prə.tʃər",
             "korean": "템퍼러처"
@@ -442,7 +451,7 @@
     
     "pulse": {
         "word": "pulse",
-        "meaning": "맥박 파동, 진동",
+        "meaning": "맥박, 파동, 진동",
         "pronunciation": {
             "symbol": "pʌ́ls",
             "korean": "펄스"
@@ -451,7 +460,7 @@
     
     "military": {
         "word": "military",
-        "meaning": "군의 군대, 군대의;",
+        "meaning": "군의, 군대의; 군대",
         "pronunciation": {
             "symbol": "|mɪləteri",
             "korean": "밀리터리"
@@ -646,6 +655,15 @@
             "korean": "메인"
         }
     }, 
+
+    "trait": {
+        "word": "trait",
+        "meaning": "특성, 특질, 특색, 특징",
+        "pronunciation": {
+            "symbol": "treɪt",
+            "korean": "트레이트"
+        }
+    },     
     
     "destination": {
         "word": "destination",
@@ -667,7 +685,7 @@
     
     "sweat": {
         "word": "sweat",
-        "meaning": "땀;, 땀을 흘리다",
+        "meaning": "땀; 땀을 흘리다",
         "pronunciation": {
             "symbol": "swet",
             "korean": "스웻"
