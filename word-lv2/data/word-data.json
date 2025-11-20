@@ -1,0 +1,289 @@
+{ 
+    "horizon": {
+        "word": "horizon",
+        "meaning": "지평선, 수평선, 영역, 범위",
+        "pronunciation": {
+            "symbol": "wɜːrd",
+            "korean": "허라이즌"
+        }
+    },
+
+    "frustrate": {
+        "word": "frustrate",
+        "meaning": "좌절시키다",
+        "pronunciation": {
+            "symbol": "ˈfrʌstreɪt",
+            "korean": "프러스트레이트"
+        }
+    },    
+
+    "fundamental": {
+        "word": "fundamental",
+        "meaning": "기본적인, 근본적인",
+        "pronunciation": {
+            "symbol": "ˌfʌndəˈmentl",
+            "korean": "펀더멘털"
+        }
+    },    
+    
+    "navigation": {
+        "word": "navigation",
+        "meaning": "항해, 항공",
+        "pronunciation": {
+            "symbol": "ˌnævɪˈɡeɪʃn",
+            "korean": "내비게이션"
+        }
+    },     
+
+    "origin": {
+        "word": "origin",
+        "meaning": "기원, 근원",
+        "pronunciation": {
+            "symbol": "ˈɔːrɪdʒɪn",
+            "korean": "오리진"
+        }
+    }, 
+    
+    "average": {
+        "word": "average",
+        "meaning": "평균, 표준",
+        "pronunciation": {
+            "symbol": "ˈævərɪdʒ",
+            "korean": "애버리지"
+        }
+    }, 
+    
+    "author": {
+        "word": "author",
+        "meaning": "저자, 작가",
+        "pronunciation": {
+            "symbol": "ˈɔːθər",
+            "korean": "오서"
+        }
+    },  
+
+    "lean": {
+        "word": "lean",
+        "meaning": "기대다, 기울이다",
+        "pronunciation": {
+            "symbol": "liːn",
+            "korean": "린"
+        }
+    }, 
+    
+    "legend": {
+        "word": "legend",
+        "meaning": "전설 신화",
+        "pronunciation": {
+            "symbol": "ˈledʒənd",
+            "korean": "레전드"
+        }
+    }, 
+
+    "advertise": {
+        "word": "advertise",
+        "meaning": "광고하다, 선전하다",
+        "pronunciation": {
+            "symbol": "ˈædvərtaɪz",
+            "korean": "애드버타이즈"
+        }
+    },  
+    
+    "delay": {
+        "word": "delay",
+        "meaning": "미루다, 연기하다; 지연",
+        "pronunciation": {
+            "symbol": "dɪˈleɪ",
+            "korean": "딜레이"
+        }
+    }, 
+
+    "route": {
+        "word": "route",
+        "meaning": "길, 노선, 항로",
+        "pronunciation": {
+            "symbol": "ruːt",
+            "korean": "루트"
+        }
+    },  
+    
+    "grant": {
+        "word": "grant",
+        "meaning": "승인하다, 허가하다; 허가, 인가",
+        "pronunciation": {
+            "symbol": "ɡrænt",
+            "korean": "그랜트"
+        }
+    }, 
+    
+    "conceited": {
+        "word": "conceited",
+        "meaning": "자부심이 강한, 자만하는",
+        "pronunciation": {
+            "symbol": "kənˈsiːtɪd",
+            "korean": "컨시티드"
+        }
+    },         
+
+    "float": {
+        "word": "float",
+        "meaning": "띄우다, 뜨다",
+        "pronunciation": {
+            "symbol": "floʊt",
+            "korean": "플로트"
+        }
+    },
+    
+    "decease": {
+        "word": "decease",
+        "meaning": "사망; 사망하다",
+        "pronunciation": {
+            "symbol": "dɪˈsiːs",
+            "korean": "디시스"
+        }
+    },      
+
+    "watchful": {
+        "word": "watchful",
+        "meaning": "주의 깊은 경계를 하는",
+        "pronunciation": {
+            "symbol": "ˈwɑːtʃfəl",
+            "korean": "와치풀"
+        }
+    }, 
+    
+    "ray": {
+        "word": "ray",
+        "meaning": "광선 빛",
+        "pronunciation": {
+            "symbol": "reɪ",
+            "korean": "레이"
+        }
+    },  
+    
+    "associate": {
+        "word": "associate",
+        "meaning": "교제하다, 연합시키다; 관련자, 친구",
+        "pronunciation": {
+            "symbol": "əˈsoʊsiət",
+            "korean": "어소시에이트"
+        }
+    },  
+    
+    "permanet": {
+        "word": "permanet",
+        "meaning": "영구적인, 영속하는",
+        "pronunciation": {
+            "symbol": "ˈpɜːrmənənt",
+            "korean": "퍼머넌트"
+        }
+    },
+    
+    "settle": {
+        "word": "settle",
+        "meaning": "해결하다, 자리잡다",
+        "pronunciation": {
+            "symbol": "ˈsetl̩",
+            "korean": "세틀"
+        }
+    },
+
+    "fair": {
+        "word": "fair",
+        "meaning": "공평한, 공정한",
+        "pronunciation": {
+            "symbol": "fer",
+            "korean": "페어"
+        }
+    },
+
+    "fare": {
+        "word": "fare",
+        "meaning": "운임, 요금",
+        "pronunciation": {
+            "symbol": "fer",
+            "korean": "페어"
+        }
+    }, 
+    
+    "atmosphere": {
+        "word": "atmosphere",
+        "meaning": "대기, 환경, 분위기",
+        "pronunciation": {
+            "symbol": "ˈætməsfɪr",
+            "korean": "앳머스피어"
+        }
+    },
+    
+    "nod": {
+        "word": "nod",
+        "meaning": "끄덕이다",
+        "pronunciation": {
+            "symbol": "nɑːd",
+            "korean": "나드"
+        }
+    }, 
+    
+    "fellow": {
+        "word": "fellow",
+        "meaning": "친구, 녀석",
+        "pronunciation": {
+            "symbol": "ˈfeloʊ",
+            "korean": "펠로우"
+        }
+    }, 
+    
+    "capture": {
+        "word": "capture",
+        "meaning": "사로잡다, 포획하다",
+        "pronunciation": {
+            "symbol": "ˈkæptʃər",
+            "korean": "캡처"
+        }
+    },    
+
+    "achieve": {
+        "word": "achieve",
+        "meaning": "이루다, 성취하다",
+        "pronunciation": {
+            "symbol": "əˈtʃiːv",
+            "korean": "어치브"
+        }
+    }, 
+    
+    "rude": {
+        "word": "rude",
+        "meaning": "버릇없는, 무례한",
+        "pronunciation": {
+            "symbol": "ruːd",
+            "korean": "루드"
+        }
+    },
+    
+    "garage": {
+        "word": "garage",
+        "meaning": "사고",
+        "pronunciation": {
+            "symbol": "ɡəˈrɑːʒ",
+            "korean": "거라즈"
+        }
+    },    
+
+    "narrate": {
+        "word": "narrate",
+        "meaning": "설명하다, 이야기하다",
+        "pronunciation": {
+            "symbol": "ˈnæreɪt",
+            "korean": "내레이트"
+        }
+    }, 
+    
+    "annual": {
+        "word": "annual",
+        "meaning": "1년의, 해마다의",
+        "pronunciation": {
+            "symbol": "ˈænjuəl",
+            "korean": "애뉴얼"
+        }
+    }   
+}    
