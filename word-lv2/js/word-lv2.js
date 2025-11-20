@@ -1,16 +1,30 @@
 const allWords = [
-    "horizon", "frustrate", "fundamental", "navigation",
-    "origin", "average", "author", "lean",
-    "legend", "advertise", "delay", "route",
-    "grant", "conceited", "float", "decease",
-    "watchful", "ray", "associate", "permanet",
-    "settle", "fair", "fare", "atmosphere",
-    "nod", "fellow", "capture", "achieve",
-    "rude"
+    "endure", "apparent", "jewel", "worth", "plain",
+    "pale", "nightmare", "property", "monster", "deliver",
+
+    "labor", "wrap", "satellite", "blame", "colony",
+    "defeat", "pay", "kidnap", "wheat", "timely",
+
+    "situation", "tide", "recycle", "represent", "repair",
+    "reflect", "renew", "reward", "reserve", "restrict",
+
+    "compare", "ensure", "insure", "embarrass", "guarantee",
+    "marvel", "authority", "tune", "telescope", "microscope",
+
+    "valid", "farewell", "per", "dine", "adult",
+    "electric", "fabulous", "crab", "avenue", "material",
+
+    "native", "terrific", "interest", "silly", "end",
+    "concise", "weapon", "bleed", "fee", "mall",
+
+    "qualify", "obey", "conflict", "landscape", "society",
+    "final", "infinite", "finale", "definite", "confine",
+
+    "confer", "infer", "offer", "bother", "degree",
+    "term", "effort", "pour", "regulation", "attack",
 ];
 
-// 전역 변수
-let wordData = {}; // JSON에서 불러온 단어 데이터
+let wordData = {};
 const popupOverlay = document.getElementById('popupOverlay');
 const popup = document.getElementById('popup');
 
@@ -36,7 +50,6 @@ async function loadWordData() {
 function getRandomWords(count = 40) {
     const shuffled = [...allWords];
     
-    // Fisher-Yates 셔플 알고리즘
     for (let i = shuffled.length - 1; i > 0; i--) {
         const j = Math.floor(Math.random() * (i + 1));
         [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
@@ -70,7 +83,7 @@ function displayWords() {
     });
 }
 
-// 팝업 표시 함수
+// 팝업 표시
 function showPopup(wordKey, cardElement) {
     const data = wordData[wordKey];
     
@@ -90,7 +103,7 @@ function showPopup(wordKey, cardElement) {
         document.querySelector('.pronunciation-korean').textContent = data.pronunciation.korean;
     }
     
-    // 팝업 위치 계산 (클릭한 카드 위에)
+    // (클릭한 카드 위에)
     const cardRect = cardElement.getBoundingClientRect();
     const popupWidth = 830;
     const popupHeight = 340;
@@ -99,16 +112,15 @@ function showPopup(wordKey, cardElement) {
     let left = cardRect.left;
     let top = cardRect.top - popupHeight - 20; // 카드 위 20px 간격
     
-    // 왼쪽으로 화면 밖으로 나가면 조정
     if (left < 20) {
         left = 20;
     }
-    // 오른쪽으로 화면 밖으로 나가면 조정
+
     if (left + popupWidth > window.innerWidth - 20) {
         left = window.innerWidth - popupWidth - 20;
     }
     
-    // 위로 화면 밖으로 나가면 카드 아래에 배치
+
     if (top < 20) {
         top = cardRect.bottom + 20;
     }
@@ -121,7 +133,7 @@ function showPopup(wordKey, cardElement) {
     popupOverlay.classList.add('active');
 }
 
-// 팝업 닫기 함수
+// 팝업 닫기
 function closePopup() {
     popupOverlay.classList.remove('active');
 }
