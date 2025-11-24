@@ -13,7 +13,7 @@
 /* 팝업 본체 */
 .sentence-popup {
     position: absolute;
-    width: 780px;
+    width: 1500px;
     min-height: 362px;
     max-height: 80vh;
     background: rgb(255, 255, 255);
@@ -64,17 +64,9 @@
 
 /* 닫기 버튼 */
 .popup-close {
-    position: absolute;
-    bottom: 20px;
-    right: 20px;
-    font-size: 16px;
-    padding: 8px 14px;
-    background: rgb(238, 238, 238);
-    border: 1px solid rgb(170, 170, 170);
-    border-radius: 8px;
-    cursor: pointer;
+    display: none;
 }
 
-.popup-close:hover {
-    background: rgb(221, 221, 221);
+.desc-item.desc-empty {
+    height: 0.75rem;   
 }
