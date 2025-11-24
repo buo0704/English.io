@@ -33,7 +33,13 @@ cards.forEach(card => {
             
             // desc 각 항목을 div로 감싸기
             popupMeaning.innerHTML = data.desc
-                .map(item => `<div class="desc-item">${item}</div>`)
+                .map(item => {
+                    if (item === "") {
+                        // 빈 줄
+                        return '<div class="desc-item desc-empty">&nbsp;</div>';
+                    }
+                    return `<div class="desc-item">${item}</div>`;
+                })
                 .join('');
         }
 
