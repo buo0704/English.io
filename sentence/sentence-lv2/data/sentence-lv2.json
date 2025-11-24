@@ -1,0 +1,229 @@
+{
+    "I am learning English now.": {
+        "title": "I am learning English now.",
+        "sub": "저는 지금 영어를 배우고 있습니다.",
+        "desc": [
+            "품사 / 문장 구조 설명",
+            "주어(I) + be동사(am) + 현재분사(learning) + 목적어(English) + 부사(now)",
+           
+            "",
+
+            "문장의 문법 포인트",
+            "현재진행형(am + ~ing) = 지금 하고 있는 행동",
+            "now는 진행형과 잘 어울리는 시간부사",
+            
+            "",
+
+            "주요 단어 뜻",
+            "learn: 배우다",
+            "English: 영어",
+            "now: 지금"
+        ]
+    },
+
+    "She is cooking dinner in the kitchen.": {
+        "title": "She is cooking dinner in the kitchen.",
+        "sub": "그녀는 부엌에서 저녁을 요리하고 있습니다.",
+        "desc": [
+            "품사 / 문장 구조 설명",
+            "주어(She) + be동사(is) + 현재분사(cooking) + 목적어(dinner) + 장소부사구(in the kitchen)",
+           
+            "",
+
+            "문장의 문법 포인트",
+            "현재진행형: be동사(is) + 동사원형 + -ing(cooking) → 지금 하고 있는 행동",
+            "in the kitchen: in + 장소명사 → ‘부엌에서’라는 장소 표현",
+
+            "",
+
+            "주요 단어 뜻",
+            "cook: 요리하다",
+            "dinner: 저녁 식사",
+            "kitchen: 부엌"
+        ]
+    },    
+
+    "I visited my grandparents last weekend.": {
+        "title": "I visited my grandparents last weekend.",
+        "sub": "저는 지난 주말에 조부모님을 방문했습니다.",
+        "desc": [
+            "품사 / 문장 구조 설명",
+            "주어(I) + 과거동사(visited) + 목적어(my grandparents) + 시간부사구(last weekend)",
+            
+            "",
+
+            "문장의 문법 포인트",
+            "watched: watch의 일반동사 과거형",
+            "yesterday: 어제를 나타내는 시간 부사 → 과거시제와 함께 사용",
+            "my parents는 복수형 → 부모님(두 분)",
+
+            "",
+
+            "주요 단어 뜻",
+            "watch: 보다, 시청하다",
+            "movie: 영화",
+            "last weekend: 지난 주말"
+        ]
+    }, 
+
+    "He watched a movie yesterday.": {
+        "title": "He watched a movie yesterday.",
+        "sub": "그는 어제 영화를 보았습니다.",
+        "desc": [
+            "품사 / 문장 구조 설명",
+            "주어(He) + 과거동사(watched) + 목적어(a movie) + 시간부사구(yesterday)",
+            
+            "",
+
+            "문장의 문법 포인트",
+            "watched: watch의 일반동사 과거형",
+            "yesterday: 어제를 나타내는 시간 부사 → 과거시제와 함께 사용",
+            "my parents는 복수형 → 부모님(두 분)",
+           
+            "",
+
+            "주요 단어 뜻",
+            "visit: 방문하다",
+            "grandparents: 조부모님",
+            "yesterday: 어제"
+        ]
+    },     
+
+    "I can play the guitar.": {
+        "title": "I can play the guitar.",
+        "sub": "저는 기타를 칠 수 있습니다.",
+        "desc": [
+            "품사 / 문장 구조 설명",
+            "주어(I) + 조동사(can) + 동사원형(play) + 목적어(the guitar)",
+           
+            "",
+
+            "문장의 문법 포인트",
+            "can + 동사원형: ~할 수 있다(능력/가능)",
+            "악기 앞에는 보통 the + 악기명을 사용 (the guitar, the piano 등)",
+            
+            "",
+
+            "주요 단어 뜻",
+            "can: ~할 수 있다",
+            "play: (악기를) 연주하다",
+            "guitar: 기타"
+        ]
+    },  
+    
+    "She can speak three languages.": {
+        "title": "She can speak three languages.",
+        "sub": "그녀는 세 가지 언어를 할 수 있습니다.",
+        "desc": [
+            "품사 / 문장 구조 설명",
+            "주어(She) + 조동사(can) + 동사원형(speak) + 목적어(three languages)",
+            
+            "",
+
+            "문장의 문법 포인트",
+            "can + 동사원형: 능력 표현",
+            "three languages: 수사(three) + 복수명사(languages) 구조",
+           
+            "",
+
+            "주요 단어 뜻",
+            "speak: 말하다",
+            "language: 언어",
+            "three: 셋, 세 개"
+        ]
+    },   
+    
+    "I study at the library after work.": {
+        "title": "I study at the library after work.",
+        "sub": "저는 퇴근 후 도서관에서 공부합니다.",
+        "desc": [
+            "품사 / 문장 구조 설명",
+            "주어(I) + 동사(study)+ 장소부사구(at the library) + 시간부사구(after work)",
+            
+            "",
+
+            "문장의 문법 포인트",
+            "일반동사 현재형(study) → 습관/규칙적인 행동 표현",
+            "at the library: at + 장소명사 → 도서관에서",
+            "after work: 일이 끝난 후에/퇴근 후에 라는 시간 표현",
+            
+            "",
+
+            "주요 단어 뜻",
+            "study: 공부하다",
+            "library: 도서관",
+            "after work: 퇴근 후에"
+        ]
+    }, 
+    
+    "He walks his dog every evening.": {
+        "title": "He walks his dog every evening.",
+        "sub": "그는 매일 저녁 강아지를 산책시킵니다.",
+        "desc": [
+            "품사 / 문장 구조 설명",
+            "주어(He) + 동사(walks) + 목적어(his dog) + 시간부사구(every evening)",
+            
+            "",
+
+            "문장의 문법 포인트",
+            "He → 3인칭 단수 주어 → 동사에 -s(walk → walks)",
+            "walk + 목적어(dog): 개를 산책시키다 라는 의미",
+            "every evening: 반복되는 습관 표현",
+            
+            "",  
+
+            "주요 단어 뜻",   
+            "walk: 걷다, 산책시키다",
+            "dog: 개, 강아지",
+            "every evening: 매일 저녁"
+        ]
+    }, 
+
+    "I feel tired because I slept late.": {
+        "title": "I feel tired because I slept late.",
+        "sub": "저는 늦게 자서 피곤합니다.",
+        "desc": [
+            "품사 / 문장 구조 설명",
+            "(주절: 주어(I) + 동사(feel) + 보어(tired, 형용사)) + 접속사(because) + (이유절: 주어(I) + 과거동사(slept) + 부사(late))",
+            
+            "",
+
+            "문장의 문법 포인트",
+            "feel + 형용사: 상태·감정 표현 (feel tired, feel happy 등)",
+            "because절: 이유를 나타내는 종속절",
+            "slept: sleep의 과거형",
+           
+            "",
+
+            "주요 단어 뜻",
+            "feel: 느끼다",
+            "tired: 피곤한",
+            "because: ~이기 때문에",
+            "sleep / slept: 자다 / 잤다",
+            "late: 늦게"
+        ]
+    },    
+
+    "I like this café because it is quiet.": {
+        "title": "I like this café because it is quiet.",
+        "sub": "저는 이 카페가 조용해서 좋아합니다.",
+        "desc": [
+            "품사 / 문장 구조 설명",
+            "(주절: 주어(I) + 동사(like) + 목적어(this café)) + 접속사(because) + (이유절: 주어(it) + be동사(is) + 보어(quiet, 형용사))",
+            
+            "",
+
+            "문장의 문법 포인트",
+            "like + 명사: ~을 좋아하다",
+            "because절: 이유를 덧붙이는 구조",
+            "quiet: 상태·분위기를 설명하는 형용사",
+            
+            "",
+
+            "주요 단어 뜻",
+            "like: 좋아하다",
+            "café: 카페",
+            "quiet: 조용한"
+        ]
+    }
+}
