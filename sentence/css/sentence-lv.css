@@ -40,18 +40,13 @@ body {
     transform: translateX(-780px);
 }
 
-/* 2열 카드 리스트 */
+/* 카드 리스트 */
 .sentence-list {
-    display: grid;
-    grid-template-columns: repeat(2, var(--card-width));
-    column-gap: var(--gap);
-    row-gap: 40px;
-
-    /* 화면 넓이에 적응 */
-    justify-content: center;
-    width: 100%;
-    padding: 0 20px;
-
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 40px;
+    padding-right: 600px;
     list-style: none;
 }
 
