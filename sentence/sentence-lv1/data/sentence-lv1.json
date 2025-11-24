@@ -3,8 +3,17 @@
         "title": "I am twenty years old.",
         "sub": "저는 20살 입니다.",
         "desc": [
+            "품사 / 문장 구조 설명",
             "주어(I) + 동사(am) + 형용사(years old)",
+
+            "",
+            
+            "문장의 문법 포인트",         
             "Be동사 현재형(am) 사용",
+
+            "",
+
+            "주요 단어 뜻",
             "“~ years old” 는 나이를 말할 때 쓰는 표현",
             "am : ~ 이다",
             "years old : ~ 살"
@@ -15,9 +24,19 @@
         "title": "I live in a small town.",
         "sub": "저는 작은 마을에 삽니다.",
         "desc": [
+            "품사 / 문장 구조 설명",
             "주어(I) + 동사(live) + 전치사구 (in a small town)",
+
+            "",
+            
+            "문장의 문법 포인트",
             "live는 일반동사, in + 장소 ",
             "관사(a) + 형용사(small) + 명사(town)",
+
+            "",
+
+
+            "주요 단어 뜻",
             "live : ~ 이다",
             "in : ~에",
             "small : 작은",
@@ -29,10 +48,19 @@
         "title": "I live with my parents.",
         "sub": "저는 부모님과 함께 삽니다.",
         "desc": [
+            "품사 / 문장 구조 설명",
             "주어(I) + 동사(live) + 전치사구 (with my parents)",
+
+            "",
+
+            "문장의 문법 포인트",
             "with + 사람 → ~와 함께 라는 의미",
             "live는 일반동사 → 현재의 습관/사실을 나타낼 때 현재형 사용",
             "my parents는 복수형 → 부모님(두 분)",
+
+            "",
+
+            "주요 단어 뜻",
             "live : 살다",
             "with : ~ 와 함께",
             "parents : 부모님"
@@ -43,9 +71,18 @@
         "title": "I like quiet places.",
         "sub": "저는 조용한 장소들을 좋아합니다.",
         "desc": [
+            "품사 / 문장 구조 설명",
             "주어(I) + 동사(like) + 목적어 (quiet places)",
+
+            "",
+
+            "문장의 문법 포인트",
             "like + 명사",
             "quiet가 명사 places를 꾸미는 형용사 역할",
+
+            "",
+
+            "주요 단어 뜻",
             "places는 복수형",
             "like : 좋아하다",
             "quiet : 조용한",
@@ -57,9 +94,18 @@
         "title": "My hobby is reading books.",
         "sub": "제 취미는 책 읽기입니다.",
         "desc": [
+            "품사 / 문장 구조 설명",
             "주어(My hobby) + 동사(is)be동사 + reading(동명사) + books(복수명사)",
+
+            "",
+
+            "문장의 문법 포인트",
             "동명사(Verb + ing)",
             "be동사 + 동명사(취미, 관심사, 일상 행동을 정의할 때 자주 사용)",
+
+            "",
+
+            "주요 단어 뜻",
             "books는 복수형",
             "hobby : 취미",
             "reading : 읽기",
@@ -71,10 +117,19 @@
         "title": "I eat breakfast at home.",
         "sub": "저는 집에서 아침을 먹습니다.",
         "desc": [
+            "품사 / 문장 구조 설명",
             "주어(My hobby) + 동사(eat) + 목적어 (breakfast) + at(전치사) + home(명사)",
+
+            "",
+
+            "문장의 문법 포인트",
             "일반동사 eat → 습관/일상을 말할 때 현재형 사용",
             "breakfast는 일반적으로 관사(a/the)를 붙이지 않음",
             "at home = 집에서(장소 표현에서 at + 장소 사용)",
+
+            "",
+
+            "주요 단어 뜻",
             "eat: 먹다",
             "breakfast: 아침 식사",
             "at home: 집에서"
@@ -85,10 +140,19 @@
         "title": "I go to work by bus.",
         "sub": "저는 버스로 출근합니다.",
         "desc": [
+            "품사 / 문장 구조 설명",
             "주어(My hobby) + 동사(go) + to(전치사) + work(명사/직장) + 수단 표현 (by bus) — 교통수단",
+
+            "",
+
+            "문장의 문법 포인트",
             "go to + 장소 → ~에 가다",
             "work는 여기서 일하는 곳(직장) 이라는 의미",
             "by + 교통수단 → ~로",
+
+            "",
+
+            "주요 단어 뜻",
             "go: 가다",
             "work: 직장, 일",
             "by bus: 버스로"
@@ -99,10 +163,19 @@
         "title": "She goes to school by train.",
         "sub": "그녀는 기차로 학교에 갑니다.",
         "desc": [
+            "품사 / 문장 구조 설명",
             "주어(She) + 동사 (goes) + to(전치사) + school(명사) + 수단 표현 (by train) — 교통수단",
+
+            "",
+
+            "문장의 문법 포인트",
             "She → 3인칭 단수 → 동사에 -s 붙여 go → goes",
             "go to + 장소 = ~에 가다",
             "by + 교통수단 → ~로",
+
+            "",
+
+            "주요 단어 뜻",
             "goes: 간다 (go의 3인칭 단수형)",
             "school: 학교",
             "by train: 기차로"
@@ -113,9 +186,18 @@
         "title": "I drink coffee every morning.",
         "sub": "저는 매일 아침 커피를 마십니다.",
         "desc": [
+            "품사 / 문장 구조 설명",
             "주어(I) + 동사(drink) + 목적어 (coffee) + every(형용사) + morning(명사)",
+
+            "",
+
+            "문장의 문법 포인트",
             "drink는 일반동사 → 습관/일상을 말할 때 현재형 사용",
             "every + 시간명사 = 매 ~마다",
+
+            "",
+
+            "주요 단어 뜻",
             "drink: 마시다",
             "coffee: 커피",
             "every morning: 매일 아침"
@@ -126,10 +208,19 @@
         "title": "He sleeps early on weekdays.",
         "sub": "그는 평일에는 일찍 잡니다.",
         "desc": [
+            "품사 / 문장 구조 설명",
             "주어(He) + 동사(sleeps) + 부사 (early) + on(전치사) + weekdays(명사)",
+
+            "",
+
+            "문장의 문법 포인트",
             "He(3인칭 단수)",
             "early는 부사로 동작의 시점을 설명",
             "on weekdays → 요일·기간 표현에는 보통 on 사용",
+
+            "",
+
+            "주요 단어 뜻",
             "sleeps: 잔다",
             "early: 일찍",
             "on weekdays: 평일에"
