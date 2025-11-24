@@ -1,12 +1,12 @@
 :root {
     --color-background: rgb(102, 255, 94);    /* 배경 녹색 */
     --color-card: rgb(0, 131, 255);           /* 카드 노란색 */
-    --color-text-white: rgb(255, 255, 255);    /* 검은색 텍스트 */
+    --color-text-white: rgb(255, 255, 0);     /* 노란색 텍스트 */
     --color-text-light: #rgb(255, 255, 255);    /* 흰색 텍스트 */
      /* 폰트 */
     --font-family: "Inter-Medium", Helvetica;
     /* a태그 카드 크기 */
-    --card-width: 780px;
+    --card-width: 330px;
     --card-height: 100px;
     --card-gap: 46px;
 }
@@ -33,7 +33,7 @@ body {
     border: 0;
 }
 
-.sentence-page {
+.sentence-page{
     min-height: 100vh;
     display: flex;
     flex-direction: column;
