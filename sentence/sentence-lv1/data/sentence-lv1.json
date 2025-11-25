@@ -3,7 +3,7 @@
         "title": "I am twenty years old.",
         "sub": "저는 20살 입니다.",
         "desc": [
-            "품사 / 문장 구조 설명",
+            "품사 / 문장 구조",
             "주어(I) + 동사(am) + 형용사(years old)",
 
             "",
@@ -24,7 +24,7 @@
         "title": "I live in a small town.",
         "sub": "저는 작은 마을에 삽니다.",
         "desc": [
-            "품사 / 문장 구조 설명",
+            "품사 / 문장 구조",
             "주어(I) + 동사(live) + 전치사구 (in a small town)",
 
             "",
@@ -48,7 +48,7 @@
         "title": "I live with my parents.",
         "sub": "저는 부모님과 함께 삽니다.",
         "desc": [
-            "품사 / 문장 구조 설명",
+            "품사 / 문장 구조",
             "주어(I) + 동사(live) + 전치사구 (with my parents)",
 
             "",
@@ -71,7 +71,7 @@
         "title": "I like quiet places.",
         "sub": "저는 조용한 장소들을 좋아합니다.",
         "desc": [
-            "품사 / 문장 구조 설명",
+            "품사 / 문장 구조",
             "주어(I) + 동사(like) + 목적어 (quiet places)",
 
             "",
@@ -94,7 +94,7 @@
         "title": "My hobby is reading books.",
         "sub": "제 취미는 책 읽기입니다.",
         "desc": [
-            "품사 / 문장 구조 설명",
+            "품사 / 문장 구조",
             "주어(My hobby) + 동사(is)be동사 + reading(동명사) + books(복수명사)",
 
             "",
@@ -117,7 +117,7 @@
         "title": "I eat breakfast at home.",
         "sub": "저는 집에서 아침을 먹습니다.",
         "desc": [
-            "품사 / 문장 구조 설명",
+            "품사 / 문장 구조",
             "주어(My hobby) + 동사(eat) + 목적어 (breakfast) + at(전치사) + home(명사)",
 
             "",
@@ -140,7 +140,7 @@
         "title": "I go to work by bus.",
         "sub": "저는 버스로 출근합니다.",
         "desc": [
-            "품사 / 문장 구조 설명",
+            "품사 / 문장 구조",
             "주어(My hobby) + 동사(go) + to(전치사) + work(명사/직장) + 수단 표현 (by bus) — 교통수단",
 
             "",
@@ -163,7 +163,7 @@
         "title": "She goes to school by train.",
         "sub": "그녀는 기차로 학교에 갑니다.",
         "desc": [
-            "품사 / 문장 구조 설명",
+            "품사 / 문장 구조",
             "주어(She) + 동사 (goes) + to(전치사) + school(명사) + 수단 표현 (by train) — 교통수단",
 
             "",
@@ -186,7 +186,7 @@
         "title": "I drink coffee every morning.",
         "sub": "저는 매일 아침 커피를 마십니다.",
         "desc": [
-            "품사 / 문장 구조 설명",
+            "품사 / 문장 구조",
             "주어(I) + 동사(drink) + 목적어 (coffee) + every(형용사) + morning(명사)",
 
             "",
@@ -208,7 +208,7 @@
         "title": "He sleeps early on weekdays.",
         "sub": "그는 평일에는 일찍 잡니다.",
         "desc": [
-            "품사 / 문장 구조 설명",
+            "품사 / 문장 구조",
             "주어(He) + 동사(sleeps) + 부사 (early) + on(전치사) + weekdays(명사)",
 
             "",
