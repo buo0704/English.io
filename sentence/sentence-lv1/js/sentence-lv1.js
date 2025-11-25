@@ -43,7 +43,7 @@ cards.forEach(card => {
                     }
 
                     // 제목 항목인지 확인
-                    if (item === "품사 / 문장 구조 설명" || 
+                    if (item === "품사 / 문장 구조" || 
                         item === "문장의 문법 포인트" || 
                         item === "주요 단어 뜻") {
                         return `<div class="desc-item desc-title">${item}</div>`;
