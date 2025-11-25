@@ -26,6 +26,9 @@ cards.forEach(card => {
         const sentenceKey = card.dataset.sentence;
         const data = sentenceData[sentenceKey];
 
+        console.log('클릭된 문장:', sentenceKey);
+        console.log('데이터:', data);
+
         // JSON 데이터로 텍스트 적용
         if (data) {
             popupSentence.textContent = data.title;
@@ -38,9 +41,19 @@ cards.forEach(card => {
                         // 빈 줄
                         return '<div class="desc-item desc-empty">&nbsp;</div>';
                     }
+
+                    // 제목 항목인지 확인
+                    if (item === "품사 / 문장 구조 설명" || 
+                        item === "문장의 문법 포인트" || 
+                        item === "주요 단어 뜻") {
+                        return `<div class="desc-item desc-title">${item}</div>`;
+                    }
+
                     return `<div class="desc-item">${item}</div>`;
                 })
                 .join('');
+        } else {
+            console.error('해당 문장의 데이터를 찾을 수 없습니다');
         }
 
         // 팝업을 먼저 표시해서 높이를 계산할 수 있도록
