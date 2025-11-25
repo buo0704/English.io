@@ -1,0 +1,236 @@
+{
+    "I have lived in this city for ten years.": {
+        "title": "I have lived in this city for ten years.",
+        "sub": "저는 이 도시에 10년 동안 살아왔습니다.",
+        "desc": [
+            "품사 / 문장 구조 설명",
+            "주어(I) + 조동사(have) + 과거분사(lived) + 전치사구(in this city) + 전치사구(for ten years)",
+           
+            "",
+
+            "문장의 문법 포인트",
+            "현재완료(have + p.p.): 과거에 시작해서 지금까지 이어지는 행동",
+            "for + 기간: “~ 동안” (for ten years)",
+            "in this city: 현재까지의 거주 장소 표현",
+            
+            "",
+
+            "주요 단어 뜻",
+            "live: 살다",
+            "city: 도시",
+            "for ten years: 10년 동안"
+        ]
+    },
+
+    "She has never traveled abroad before.": {
+        "title": "She has never traveled abroad before.",
+        "sub": "그녀는 전에 해외여행을 가본 적이 없습니다.",
+        "desc": [
+            "품사 / 문장 구조 설명",
+            "주어(She) + 조동사(has) + 부사(never) + 과거분사(traveled) + 부사(abroad) + 부사(before)",
+           
+            "",
+
+            "문장의 문법 포인트",
+            "현재완료 + never: 한 번도 ~한 적이 없다",
+            "abroad: 해외로, 해외에 (전치사 없이 단독 사용)",
+            "before: 지금까지, 이전에",
+            
+            "",
+
+            "주요 단어 뜻",
+            "travel: 여행하다",
+            "abroad: 해외에, 해외로",
+            "never: 한 번도 ~않다"
+        ]
+    },    
+
+    "We are going to move to another city next year.": {
+        "title": "We are going to move to another city next year.",
+        "sub": "우리는 내년에 다른 도시로 이사 갈 예정입니다.",
+        "desc": [
+            "품사 / 문장 구조 설명",
+            "주어(We) + be동사(are) + be going to (미래 표현) + 동사원형(move) +  전치사구(to another city) + 시간부사구(next year)",
+           
+            "",
+
+            "문장의 문법 포인트",
+            "be going to + 동사원형: 계획된 미래, 예정",
+            "another city: another(다른) + 단수명사(city)",
+            "next year: 미래 시점 표현",
+            
+            "",
+
+            "주요 단어 뜻",
+            "move: 이사하다, 움직이다",
+            "another: 또 다른",
+            "next year: 내년"
+        ]
+    },
+
+    "If it rains tomorrow, I will stay at home.": {
+        "title": "If it rains tomorrow, I will stay at home.",
+        "sub": "내일 비가 오면, 저는 집에 있을 것입니다.",
+        "desc": [
+            "품사 / 문장 구조 설명",
+            "조건절If절(접속사(If) + 주어(it) + 동사(rains) + 부사(tomorrow)) + 주절(주어(I) + 조동사(will) + 동사원형(stay) + 전치사구(at home))",
+           
+            "",
+
+            "문장의 문법 포인트",
+            "조건문 1형식: If + 현재시제, 주절에 will + 동사원형",
+            "rains: 3인칭 단수(it) → 동사에 -s",
+            "at home: 집에서",
+            
+            "",
+
+            "주요 단어 뜻",
+            "rain: 비가 오다",
+            "stay: 머무르다, 있다",
+            "tomorrow: 내일"
+        ]
+    },    
+
+    "The book that I am reading is very interesting.": {
+        "title": "The book that I am reading is very interesting.",
+        "sub": "제가 읽고 있는 그 책은 아주 재미있습니다.",
+        "desc": [
+            "품사 / 문장 구조 설명",
+            "주어(The book) + 관계대명사절(that I am reading) + (서술부: be동사(is) + 부사(very) + 보어(interesting, 형용사))",
+           
+            "",
+
+            "문장의 문법 포인트",
+            "관계대명사 that: 앞의 book을 설명하는 절을 이끔",
+            "현재진행형 I am reading이 관계절 안에 들어감",
+            "interesting: 사람의 느낌이 아니라 사물의 성질(흥미로운)을 나타내는 형용사",
+            
+            "",
+
+            "주요 단어 뜻",
+            "book: 책",
+            "read/reading: 읽다 / 읽고 있는",
+            "interesting: 흥미로운, 재미있는"
+        ]
+    },  
+    
+    "I was born in a small village near the sea.": {
+        "title": "I was born in a small village near the sea.",
+        "sub": "저는 바다 근처의 작은 마을에서 태어났습니다.",
+        "desc": [
+            "품사 / 문장 구조 설명",
+            "주어(I) + be동사 과거형(was) + 과거분사(born) + 전치사구(in a small village) + 전치사구(near the sea)",
+           
+            "",
+
+            "문장의 문법 포인트",
+            "be born: 태어나다(수동태 표현, 관용적으로 사용)",
+            "in a small village: 장소 표현",
+            "near the sea: ~근처에",
+            
+            "",
+
+            "주요 단어 뜻",
+            "be born: 태어나다",
+            "village: 작은 마을",
+            "near: ~ 근처에",
+            "sea: 바다"
+        ]
+    },  
+    
+    "I want to learn how to play the piano.": {
+        "title": "I want to learn how to play the piano.",
+        "sub": "저는 피아노 치는 법을 배우고 싶습니다.",
+        "desc": [
+            "품사 / 문장 구조 설명",
+            "주어(I) + 동사(want) + to부정사(to learn) + 간접의문문(how to play the piano)",
+           
+            "",
+
+            "문장의 문법 포인트",
+            "want to + 동사원형: ~하고 싶다",
+            "how to + 동사원형: ~하는 법",
+            "play the piano: 악기 앞에 the 사용",
+            
+            "",
+
+            "주요 단어 뜻",
+            "want: 원하다, ~하고 싶다",
+            "learn: 배우다",
+            "how to ~: ~하는 방법",
+            "piano: 피아노"
+        ]
+    },
+    
+    "It is important to save money for the future.": {
+        "title": "It is important to save money for the future.",
+        "sub": "미래를 위해 돈을 저축하는 것은 중요합니다.",
+        "desc": [
+            "품사 / 문장 구조 설명",
+            "가주어(It) + be동사(is) + 형용사(important) + 진주어(to save money for the future, to부정사구)",
+           
+            "",
+
+            "문장의 문법 포인트",
+            "It ~ to …: to부정사구를 뒤로 보내고 앞에 It을 세우는 형식",
+            "to save money: 돈을 저축하는 것",
+            "for the future: 미래를 위해",
+            
+            "",
+
+            "주요 단어 뜻",
+            "important: 중요한",
+            "save: 저축하다, 아끼다",
+            "future: 미래"
+        ]
+    }, 
+
+    "Although I was tired, I finished my work.": {
+        "title": "Although I was tired, I finished my work.",
+        "sub": "피곤했지만 저는 일을 마쳤습니다.",
+        "desc": [
+            "품사 / 문장 구조 설명",
+            "양보절(접속사(Although) + 주어(I) + be동사 과거형(was) + 보어(tired, 형용사)) + 주절(주어(I) + 과거동사(finished) + 목적어(my work))",
+           
+            "",
+
+            "문장의 문법 포인트",
+            "Although ~ , …: 비록 ~하지만 …",
+            "was tired: 과거 상태 표현",
+            "finished: finish의 과거형",
+            
+            "",
+
+            "주요 단어 뜻",
+            "although: 비록 ~하지만",
+            "tired: 피곤한",
+            "finish: 끝내다, 마치다",
+            "work: 일"
+        ]
+    },    
+
+    "Spending time alone sometimes helps me think clearly.": {
+        "title": "Spending time alone sometimes helps me think clearly.",
+        "sub": "혼자 시간을 보내는 것은 때때로 제가 또렷하게 생각하는 데 도움이 됩니다.",
+        "desc": [
+            "품사 / 문장 구조 설명",
+            "동명사구(spending: 동명사 + time: 명사(시간) + alone: 부사(혼자)) + 부사(sometimes) + 동사(helps) + 간접목적어(me) + 목적보어(think clearly, 동사원형구)",
+           
+            "",
+
+            "문장의 문법 포인트",
+            "동명사(Spending): 동사에 -ing를 붙여 문장의 주어로 사용",
+            "help + 목적어 + 동사원형: ~가 …하는 것을 돕다",
+            "clearly: 부사, 분명하게, 또렷하게",
+            
+            "",
+
+            "주요 단어 뜻",
+            "spend: (시간·돈을) 쓰다, 보내다",
+            "alone: 혼자",
+            "sometimes: 때때로",
+            "help: 돕다",
+            "clearly: 분명하게, 또렷하게"
+        ]
+    }
+}
