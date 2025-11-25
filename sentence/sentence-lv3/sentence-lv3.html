@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="ko">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <meta name="description" content="레벨 3 영어 문장 학습">
+        <title>영어 문장 레벨 3</title>
+        <link rel="stylesheet" href="../css/sentence-lv.css">
+        <link rel="stylesheet" href="../css/setence-popup.css">
+    </head>
+
+    <body>
+        <main class="sentence-page">
+
+            <!-- 재목 이미지가 보이는 곳  -->
+            <header class="sentence-header">
+                <img class="sentence-title" src="img/sentence-lv3.png">
+            </header>   
+            
+            <!-- 영어 문장이 보이는 곳  -->
+            <section class="sentence-section">
+                <ul class="sentence-list">
+                    <li class="sentence-item">
+                        <button type="button" class="sentence-card" data-sentence="I have lived in this city for ten years.">
+                            <span class="sentence-text">I have lived in this city for ten years.</span>
+                        </button>
+                    </li>
+
+                    <li class="sentence-item">
+                       <button type="button" class="sentence-card" data-sentence="She has never traveled abroad before.">
+                            <span class="sentence-text">She has never traveled abroad before.</span>
+                        </button>
+                    </li>
+
+                    <li class="sentence-item">
+                        <button type="button" class="sentence-card" data-sentence="We are going to move to another city next year.">
+                            <span class="sentence-text">We are going to move to another city next year.</span>
+                        </button>
+                    </li>
+
+                    <li class="sentence-item">
+                        <button type="button" class="sentence-card" data-sentence="If it rains tomorrow, I will stay at home.">
+                            <span class="sentence-text">If it rains tomorrow, I will stay at home.</span>
+                        </button>
+                    </li>
+                    
+                    <li class="sentence-item">
+                        <button type="button" class="sentence-card" data-sentence="The book that I am reading is very interesting.">
+                            <span class="sentence-text">The book that I am reading is very interesting.</span>
+                        </button>
+                    </li>
+
+                    <li class="sentence-item">
+                        <button type="button" class="sentence-card" data-sentence="I was born in a small village near the sea.">
+                            <span class="sentence-text">I was born in a small village near the sea.</span>
+                        </button>
+                    </li>
+                    
+                    <li class="sentence-item">
+                        <button type="button" class="sentence-card" data-sentence="I want to learn how to play the piano.">
+                            <span class="sentence-text">I want to learn how to play the piano.</span>
+                        </button>
+                    </li>
+
+                    <li class="sentence-item">
+                        <button type="button" class="sentence-card" data-sentence="It is important to save money for the future.">
+                            <span class="sentence-text">It is important to save money for the future.</span>
+                        </button>
+                    </li>
+                    
+                    <li class="sentence-item">
+                        <button type="button" class="sentence-card" data-sentence="Although I was tired, I finished my work.">
+                            <span class="sentence-text">Although I was tired, I finished my work.</span>
+                        </button>
+                    </li>
+
+                    <li class="sentence-item">
+                        <button type="button" class="sentence-card" data-sentence="Spending time alone sometimes helps me think clearly.">
+                            <span class="sentence-text">Spending time alone sometimes helps me think clearly.</span>
+                        </button>
+                    </li>            
+                </ul>
+            </section>            
+        </main>
+
+        <!-- 팝업창 닫기 버튼 (바탕화면 클릭 하면 팝업창이 닫힘) -->
+        <div class="sentence-popup-overlay" id="sentencePopupOverlay">
+            <div class="sentence-popup" id="sentencePopup">
+                <h1 class="popup-title" id="popupSentence"></h1>
+                <p class="popup-sub" id="popupSub"></p>
+                <div class="popup-desc" id="popupMeaning"></div>
+                <button type="button" class="popup-close" id="popupClose">닫기</button>
+            </div>
+        </div>
+        <script src="js/sentence-lv3.js"></script>     
+    </body>
+</html>
