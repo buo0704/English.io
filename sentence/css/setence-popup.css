@@ -13,7 +13,7 @@
 /* 팝업 본체 */
 .sentence-popup {
     position: absolute;
-    width: 1500px;
+    width: 1450px;
     min-height: 362px;
     max-height: 80vh;
     background: rgb(255, 255, 255);
@@ -57,7 +57,7 @@
 
 /* 각 설명 항목 */
 .desc-item {
-    font-size: 20pt;
+    font-size: 15pt;
     margin-bottom: 8px;
     color: rgb(0, 0, 0);
 }
@@ -69,4 +69,10 @@
 
 .desc-item.desc-empty {
     height: 0.75rem;   
+}
+
+/* 품사 / 문장 구조 설명, 문장의 문법 포인트, 주요 단어 뜻: 폰트 크기 와 볼드체*/
+.desc-title {
+    font-size: 20pt;
+    font-weight: bold;
 }
