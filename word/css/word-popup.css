@@ -3,7 +3,7 @@
     --font-family: "Inter-Medium", Helvetica;
     --font-title: "Gasoek One-Regular", Helvetica;
     
-    /* 팝업 크기 */
+    /* 팝업 크기 (데스크탑 기본) */
     --popup-width: 830px;
     --popup-height: 340px;
     
@@ -14,13 +14,13 @@
     --popup-border-radius: 15px;
     --popup-overlay-bg: rgba(0, 0, 0, 0.3);
     
-    /* 팝업 여백 */
+    /* 팝업 여백 (데스크탑 기본) */
     --popup-padding-top: 60px;
     --popup-padding-right: 60px;
     --popup-padding-bottom: 40px;
     --popup-padding-left: 34px;
     
-    /* 팝업 폰트 크기 */
+    /* 팝업 폰트 크기 (데스크탑 기본) */
     --popup-word-size: 65px;
     --popup-meaning-size: 45px;
     --popup-pronunciation-symbol-size: 37px;
@@ -28,7 +28,7 @@
     --popup-derivative-word-size: 40px;
     --popup-derivative-meaning-size: 35px;
     
-    /* 팝업 간격 */
+    /* 팝업 간격 (데스크탑 기본) */
     --popup-word-margin: 45px;
     --popup-meaning-margin: 24px;
     --popup-pronunciation-margin: 37px;
@@ -63,6 +63,7 @@
     cursor: default;
     overflow: hidden;
     z-index: 1001;
+    max-width: calc(100% - 40px);
 }
 
 /* 영어 단어 */
@@ -108,39 +109,167 @@
     color: rgb(0, 0, 0);
 }
 
-/* 파생 단어 영역 */
-.popup-derivatives {
-    display: flex;
-    flex-direction: column;
-    gap: var(--popup-derivatives-gap);
-}
-
-/* 각 파생 단어 항목 */
-.derivative-item {
-    display: flex;
-    align-items: baseline;
-    gap: 20px;
-}
-
 .bullet {
     font-size: 20px;
     color: #000000;
     line-height: 1;
 }
 
-/* 파생 단어 영어 */
-.derivative-word {
-    font-family: var(--font-family);
-    font-size: var(--popup-derivative-word-size);
-    font-weight: 500;
-    color: rgb(0, 0, 0);
-    margin-right: 20px;
+@media screen and (max-width: 1024px) {
+    :root {
+        --popup-width: 760px;
+        --popup-height: 320px;
+        --popup-padding-top: 40px;
+        --popup-padding-right: 40px;
+        --popup-padding-bottom: 30px;
+        --popup-padding-left: 30px;
+        --popup-word-size: 56px;
+        --popup-meaning-size: 38px;
+        --popup-pronunciation-symbol-size: 32px;
+        --popup-pronunciation-korean-size: 34px;
+        --popup-derivative-word-size: 34px;
+        --popup-derivative-meaning-size: 30px;
+        --popup-word-margin: 34px;
+        --popup-meaning-margin: 20px;
+        --popup-pronunciation-margin: 30px;
+        --popup-derivatives-gap: 18px;
+    }
+
+    .popup {
+        max-width: calc(100% - 60px);      
+        max-height: calc(100% - 80px);    
+        overflow-y: auto;                  
+        -webkit-overflow-scrolling: touch;
+    }
 }
 
-/* 파생 단어 한글 뜻 */
-.derivative-meaning {
-    font-family: var(--font-family);
-    font-size: var(--popup-derivative-meaning-size);
-    font-weight: 400;
-    color: rgb(0, 0, 0);
+@media screen and (max-width: 768px) {
+    .popup {
+        left: 50% !important;
+        top: 50% !important;
+        right: auto !important;
+        bottom: auto !important;
+        transform: translate(-50%, -50%) !important;
+
+        width: calc(100% - 40px);      
+        max-width: calc(100% - 30px);
+        max-height: calc(100% - 60px);
+        overflow-y: auto;
+        border-radius: 12px;
+    }
+
+    .popup-word {
+        display: block;
+        margin-right: 0;
+        margin-bottom: 10px;
+    }
+
+    .popup-meaning {
+        display: block;
+        margin-bottom: 14px;
+    }
+
+    .popup-pronunciation {
+        margin-left: 0;
+        margin-top: 10px;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    :root {
+        --popup-width: calc(100% - 30px);
+        --popup-height: auto;
+        --popup-padding-top: 24px;
+        --popup-padding-right: 18px;
+        --popup-padding-bottom: 20px;
+        --popup-padding-left: 18px;
+        --popup-word-size: 32px;
+        --popup-meaning-size: 24px;
+        --popup-pronunciation-symbol-size: 20px;
+        --popup-pronunciation-korean-size: 22px;
+        --popup-derivative-word-size: 22px;
+        --popup-derivative-meaning-size: 18px;
+        --popup-word-margin: 16px;
+        --popup-meaning-margin: 12px;
+        --popup-pronunciation-margin: 16px;
+        --popup-derivatives-gap: 12px;
+    }
+
+    .popup {
+        width: var(--popup-width);
+        max-width: calc(100% - 20px);
+        max-height: calc(100% - 40px);
+        overflow-y: auto;
+        border-radius: 10px;
+    }
+
+    .popup-pronunciation {
+        margin-top: 8px;
+    }
+
+    .pronunciation-symbol {
+        display: inline-block;
+        margin-right: 10px;
+    }
+
+    .popup-derivatives {
+        margin-top: 6px;
+    }
+
+    .derivative-item {
+        gap: 8px;
+    }
+
+    .bullet {
+        font-size: 14px;
+    }
+}
+
+@media screen and (max-width: 360px) {
+    :root {
+        --popup-width: calc(100% - 20px);
+        --popup-height: auto;
+        --popup-padding-top: 20px;
+        --popup-padding-right: 14px;
+        --popup-padding-bottom: 18px;
+        --popup-padding-left: 14px;
+        --popup-word-size: 28px;
+        --popup-meaning-size: 20px;
+        --popup-pronunciation-symbol-size: 18px;
+        --popup-pronunciation-korean-size: 20px;
+        --popup-derivative-word-size: 20px;
+        --popup-derivative-meaning-size: 16px;
+
+        --popup-word-margin: 12px;
+        --popup-meaning-margin: 10px;
+        --popup-pronunciation-margin: 14px;
+        --popup-derivatives-gap: 10px;
+    }
+
+    .popup {
+        width: var(--popup-width);
+        max-width: calc(100% - 16px);
+        max-height: calc(100% - 30px);
+        overflow-y: auto;
+        border-radius: 8px;
+    }
+
+    .bullet {
+        font-size: 12px;
+    }
+}
+
+@media screen and (min-width: 769px) and (max-width: 1024px) {
+    .popup {
+        left: 50% !important;
+        top: 50% !important;
+        right: auto !important;
+        bottom: auto !important;
+        transform: translate(-50%, -50%) !important;
+        width: min(760px, calc(100% - 80px));
+        max-width: calc(100% - 80px);
+        max-height: calc(100% - 80px);
+        overflow-y: auto;
+        -webkit-overflow-scrolling: touch;
+    }
 }
